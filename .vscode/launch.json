@@ -9,9 +9,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/ContosoUniversity/bin/Debug/net7.0/ContosoUniversity.dll",
+            "program": "${workspaceFolder}/HendrixCollege/bin/Debug/net7.0/HendrixCollege.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/ContosoUniversity",
+            "cwd": "${workspaceFolder}/HendrixCollege",
             "stopAtEntry": false,
             "serverReadyAction": {
                 "action": "openExternally",
